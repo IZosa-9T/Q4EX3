@@ -1,0 +1,69 @@
+.body {
+	background-color: #262425;
+	font-family: "Lexend";
+	font-weight: 300;
+}
+
+h3 {
+	font-weight: 300 !important;
+}
+
+.container1 {
+	margin-top: 150px;
+	background-color: #679386 !important;
+	padding: 20px;
+	padding-left: 50px !important;
+	padding-right: 50px !important;
+	max-width: 500px !important;
+	max-width: 30%;
+	text-align: center;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+}
+
+.container2 {
+	padding-top: 0px !important;
+	padding: 50px;
+	padding-left: 50px !important;
+	padding-right: 50px !important;
+	max-width: 500px !important;
+	max-width: 30%;
+	background-color: #f2f2ed !important;
+	text-align: center;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+
+.btn {
+	background-color: #28494e !important;
+	border-radius: 50px !important;
+	color: #f2f2ed !important;
+	font-weight: 200 !important;
+	letter-spacing: 10px;
+	width: 70% !important;
+}
+
+.inputscore {
+	border-radius: 50px !important;
+	border: none !important;
+	font-weight: 200;
+}
+
+.footer {
+	bottom: 0;
+	vertical-align: middle;
+	position: fixed;
+	width: 100%;
+	padding: 10px;
+	text-align: center;
+	background-color: #827b75;
+	height: 45px;
+	font-family: Lexend;
+	color: #f2f2ed;
+}
+
+a {
+	font-family: Lexend;
+	color: #f2f2ed !important;
+	text-decoration: none !important;
+}
